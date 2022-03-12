@@ -29,6 +29,12 @@
 
 [http://horstmann.com/sjsu/cs046/](http://horstmann.com/sjsu/cs046/)
 
+  
+### Codeforhunger Java Basic Exercises
+
+[https://bit.ly/3J9wx0S](https://bit.ly/3J9wx0S)
+
+  
 ---
 ### Java in 60 Minutes
 
