@@ -32,7 +32,7 @@
   
 ### Codeforhunger Java Basic Exercises
 
-[https://bit.ly/3J9wx0S](https://bit.ly/3J9wx0S)
+[https://codeforhunger.blogspot.com](https://codeforhunger.blogspot.com/2021/10/Java%20Programming%20Exercises%20with%20their%20Solutions.html)
 
   
 ---
